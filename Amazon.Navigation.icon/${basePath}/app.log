@@ -1,0 +1,148 @@
+2023-06-21 23:48:03.213 INFO [main] [com.stepdefinitions.Common_StepDefinition.beforeall(Common_StepDefinition.java:25)] - Intantaniating Broswer
+2023-06-21 23:48:03.227 INFO [main] [com.webdrivermgr.Drivermanager.lauchbrowser(Drivermanager.java:21)] - Launchingchrome
+2023-06-21 23:48:11.395 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:48:28.798 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_left_side_the_navigation_icon_is_visible(Navigation_Step_Definiation.java:38)] - Checking Navigation icon
+2023-06-21 23:48:29.479 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_left_side_the_navigation_icon_is_visible(Navigation_Step_Definiation.java:41)] - Icon Visible
+2023-06-21 23:48:33.505 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:48:33.505 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:48:33.529 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:48:37.005 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_left_side_the_navigation_icon_is_visible(Navigation_Step_Definiation.java:38)] - Checking Navigation icon
+2023-06-21 23:48:37.419 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_left_side_the_navigation_icon_is_visible(Navigation_Step_Definiation.java:41)] - Icon Visible
+2023-06-21 23:48:43.036 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:48:43.037 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_main_menus_count(Navigation_Step_Definiation.java:65)] - Checking main menu size
+2023-06-21 23:48:43.086 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_main_menus_count(Navigation_Step_Definiation.java:68)] - More main menu displaying
+2023-06-21 23:48:43.087 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:48:43.102 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:48:50.424 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:48:53.429 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:48:53.515 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_see_all_option(Navigation_Step_Definiation.java:85)] - Clicking the see all option
+2023-06-21 23:48:53.770 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_its_showing_more_menus(Navigation_Step_Definiation.java:91)] - checking the menus of See all
+2023-06-21 23:48:53.963 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:48:54.030 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:49:03.419 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:49:06.423 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:49:06.459 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_see_all_option(Navigation_Step_Definiation.java:85)] - Clicking the see all option
+2023-06-21 23:49:06.706 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_its_showing_more_menus(Navigation_Step_Definiation.java:91)] - checking the menus of See all
+2023-06-21 23:49:06.810 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:49:06.831 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:49:14.046 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:49:17.051 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:49:17.089 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_see_less_option(Navigation_Step_Definiation.java:103)] - Clicking see less option
+2023-06-21 23:49:17.172 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:49:17.186 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:49:24.649 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:49:27.658 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:49:27.713 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_mobiles_and_computers(Navigation_Step_Definiation.java:120)] - Clicking mobile from menu
+2023-06-21 23:49:27.986 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_its_showing_sub_menus(Navigation_Step_Definiation.java:126)] - Checking submenu
+2023-06-21 23:49:28.038 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:49:28.052 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:49:36.441 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:49:39.448 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:49:39.520 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_mobiles_and_computers(Navigation_Step_Definiation.java:120)] - Clicking mobile from menu
+2023-06-21 23:49:39.786 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_its_showing_sub_menus(Navigation_Step_Definiation.java:126)] - Checking submenu
+2023-06-21 23:49:39.830 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:49:39.838 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:49:47.050 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:49:47.051 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_best_seller(Navigation_Step_Definiation.java:154)] - Clicking Best sellers from the menu
+2023-06-21 23:49:53.832 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.it_should_be_redicting_to_product_listing_page(Navigation_Step_Definiation.java:162)] - Product listing page is displaying
+2023-06-21 23:49:53.832 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:49:53.844 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:49:57.224 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.change_the_language(Navigation_Step_Definiation.java:171)] - Clicking language menu
+2023-06-21 23:50:27.455 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:50:27.473 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:50:35.176 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:50:35.274 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_the_sign_in_menu_is_available_or_not(Navigation_Step_Definiation.java:183)] - Sign in button is available in the menu
+2023-06-21 23:50:36.992 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_sign_in_and_check_whether_its_redirecting_to_the_sign_in_page(Navigation_Step_Definiation.java:194)] - Sign in page is getting redirected
+2023-06-21 23:50:36.992 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:50:37.003 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:50:40.010 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_sign_in_button(Navigation_Step_Definiation.java:203)] - Clicking sign in button
+2023-06-21 23:50:41.475 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.enter_user_name_and_password_and_sign_in(Navigation_Step_Definiation.java:209)] - Entering username
+2023-06-21 23:50:41.691 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.enter_user_name_and_password_and_sign_in(Navigation_Step_Definiation.java:211)] - Entering password
+2023-06-21 23:50:41.728 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:50:41.744 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:50:44.269 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_sign_in_button(Navigation_Step_Definiation.java:203)] - Clicking sign in button
+2023-06-21 23:50:45.473 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.enter_user_name_and_password_and_sign_in(Navigation_Step_Definiation.java:209)] - Entering username
+2023-06-21 23:50:45.714 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.enter_user_name_and_password_and_sign_in(Navigation_Step_Definiation.java:211)] - Entering password
+2023-06-21 23:50:45.732 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:50:45.748 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:50:51.817 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:50:51.819 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_the_menu_is_available_or_not(Navigation_Step_Definiation.java:249)] - Check whether the amazon tv menu is available or not
+2023-06-21 23:50:51.854 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:50:51.868 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:50:58.873 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:50:58.873 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_the_menu_is_available_or_not(Navigation_Step_Definiation.java:249)] - Check whether the amazon tv menu is available or not
+2023-06-21 23:50:58.894 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:56:15.835 INFO [main] [com.stepdefinitions.Common_StepDefinition.beforeall(Common_StepDefinition.java:25)] - Intantaniating Broswer
+2023-06-21 23:56:15.850 INFO [main] [com.webdrivermgr.Drivermanager.lauchbrowser(Drivermanager.java:21)] - Launchingchrome
+2023-06-21 23:56:21.188 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:56:27.723 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_left_side_the_navigation_icon_is_visible(Navigation_Step_Definiation.java:38)] - Checking Navigation icon
+2023-06-21 23:56:28.468 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_left_side_the_navigation_icon_is_visible(Navigation_Step_Definiation.java:41)] - Icon Visible
+2023-06-21 23:56:34.608 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:56:34.610 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:56:34.656 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:56:39.498 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_left_side_the_navigation_icon_is_visible(Navigation_Step_Definiation.java:38)] - Checking Navigation icon
+2023-06-21 23:56:40.548 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_left_side_the_navigation_icon_is_visible(Navigation_Step_Definiation.java:41)] - Icon Visible
+2023-06-21 23:56:44.856 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:56:44.857 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_main_menus_count(Navigation_Step_Definiation.java:65)] - Checking main menu size
+2023-06-21 23:56:44.918 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_check_the_main_menus_count(Navigation_Step_Definiation.java:68)] - More main menu displaying
+2023-06-21 23:56:44.918 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:56:44.937 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:56:57.384 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:57:00.394 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:57:00.484 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_see_all_option(Navigation_Step_Definiation.java:85)] - Clicking the see all option
+2023-06-21 23:57:00.799 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_its_showing_more_menus(Navigation_Step_Definiation.java:91)] - checking the menus of See all
+2023-06-21 23:57:01.008 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:57:01.069 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:57:10.748 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:57:13.763 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:57:13.812 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_see_all_option(Navigation_Step_Definiation.java:85)] - Clicking the see all option
+2023-06-21 23:57:14.008 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_its_showing_more_menus(Navigation_Step_Definiation.java:91)] - checking the menus of See all
+2023-06-21 23:57:14.133 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:57:14.151 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:57:21.254 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:57:24.269 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:57:24.320 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_see_less_option(Navigation_Step_Definiation.java:103)] - Clicking see less option
+2023-06-21 23:57:24.379 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:57:24.396 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:57:31.280 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:57:34.287 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:57:34.330 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_mobiles_and_computers(Navigation_Step_Definiation.java:120)] - Clicking mobile from menu
+2023-06-21 23:57:34.562 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_its_showing_sub_menus(Navigation_Step_Definiation.java:126)] - Checking submenu
+2023-06-21 23:57:34.608 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:57:34.626 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:57:41.749 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:57:44.757 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.scroll_to_the_shopcategory(Navigation_Step_Definiation.java:78)] - Scrolling to the shopby category section
+2023-06-21 23:57:44.803 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_mobiles_and_computers(Navigation_Step_Definiation.java:120)] - Clicking mobile from menu
+2023-06-21 23:57:44.998 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_its_showing_sub_menus(Navigation_Step_Definiation.java:126)] - Checking submenu
+2023-06-21 23:57:45.033 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:57:45.044 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:57:52.456 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:57:52.457 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_best_seller(Navigation_Step_Definiation.java:154)] - Clicking Best sellers from the menu
+2023-06-21 23:57:55.229 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.it_should_be_redicting_to_product_listing_page(Navigation_Step_Definiation.java:162)] - Product listing page is displaying
+2023-06-21 23:57:55.230 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:57:55.243 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:57:58.246 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.change_the_language(Navigation_Step_Definiation.java:171)] - Clicking language menu
+2023-06-21 23:58:28.742 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:58:28.758 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:58:37.025 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:58:37.142 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_the_sign_in_menu_is_available_or_not(Navigation_Step_Definiation.java:183)] - Sign in button is available in the menu
+2023-06-21 23:58:38.914 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_sign_in_and_check_whether_its_redirecting_to_the_sign_in_page(Navigation_Step_Definiation.java:194)] - Sign in page is getting redirected
+2023-06-21 23:58:38.914 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:58:38.928 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:58:42.224 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_sign_in_button(Navigation_Step_Definiation.java:203)] - Clicking sign in button
+2023-06-21 23:58:43.761 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.enter_user_name_and_password_and_sign_in(Navigation_Step_Definiation.java:209)] - Entering username
+2023-06-21 23:58:44.018 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.enter_user_name_and_password_and_sign_in(Navigation_Step_Definiation.java:211)] - Entering password
+2023-06-21 23:58:44.047 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:58:44.063 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:58:47.096 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.click_on_the_sign_in_button(Navigation_Step_Definiation.java:203)] - Clicking sign in button
+2023-06-21 23:58:48.626 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.enter_user_name_and_password_and_sign_in(Navigation_Step_Definiation.java:209)] - Entering username
+2023-06-21 23:58:48.850 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.enter_user_name_and_password_and_sign_in(Navigation_Step_Definiation.java:211)] - Entering password
+2023-06-21 23:58:48.878 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:58:48.893 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:58:56.215 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:58:56.217 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_the_menu_is_available_or_not(Navigation_Step_Definiation.java:249)] - Check whether the amazon tv menu is available or not
+2023-06-21 23:58:56.244 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
+2023-06-21 23:58:56.254 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_am_at_the_amazon_site(Navigation_Step_Definiation.java:30)] - Launching Amazon Site
+2023-06-21 23:59:02.933 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.i_verify_that_the_navigation_icon_is_clickable(Navigation_Step_Definiation.java:55)] - Nav icon is clicakble
+2023-06-21 23:59:02.933 INFO [main] [com.stepdefinitions.Navigation_Step_Definiation.check_whether_the_menu_is_available_or_not(Navigation_Step_Definiation.java:249)] - Check whether the amazon tv menu is available or not
+2023-06-21 23:59:02.954 INFO [main] [com.stepdefinitions.Common_StepDefinition.afterscenario(Common_StepDefinition.java:43)] - =========End of Scenario=========
